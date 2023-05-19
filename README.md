@@ -2,7 +2,7 @@
 
 I created this text-based video game from scratch as a project for the course Object Oriented Programming during my first year of studies.
 
-This project is a small and simple text-based video game. The main objective of this video game is guessing which company will do the best in regards to their overall profit. The companies have randomly generated names and attributes where each company has their income and expenditure. The user can interact with the video game via the console, by giving it commands from a premade list of commands. <br>
+This project is a small and simple text-based video game. The main objective of this video game is guessing which company will do the best in regard to their overall profit. The companies have randomly generated names and attributes where each company has their income and expenditure. The user can interact with the video game via the console, by giving it commands from a premade list of commands. <br>
 The name of the game, Guess Da Profit, when abbreviated stands for GDP which is a joke (trivia).
 
 The target audiences of this video game are individuals of all ages, with an emphasis on the younger generations.
